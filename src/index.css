@@ -294,6 +294,18 @@ h2{
 }
 
 /* ---------- Experience ---------- */
+.exp-org-link{
+  display:inline-block;
+  text-decoration:none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.25s ease;
+  cursor: pointer;
+}
+.exp-org-link:hover,
+.exp-org-link:focus-visible{
+  color: var(--brass-deep);
+  border-bottom-color: var(--brass-deep);
+}
 .exp-item{
   display:grid; grid-template-columns: 180px 1fr; gap: 28px;
   padding: 26px 0; border-bottom:1px solid var(--line);

@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="hero" id="top" style={{ borderTop: 'none' }}>
-      <p className="eyebrow">MCA Graduate (8.2 CGPA) · Full Stack Developer</p>
+      <p className="eyebrow">MCA Graduate (8.3 CGPA) · Full Stack Developer</p>
       <h1 className="title">Sadhana Dhanapal <em>Subbannavar</em></h1>
       <p className="hero-sub">
         I design and ship role-based, production-style applications — from FastAPI backends with

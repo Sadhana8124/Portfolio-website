@@ -8,7 +8,7 @@ export default function About() {
       <div className="about-grid">
         <div className="about-text">
           <p>
-            I'm an <strong>MCA graduate from Dayananda Sagar College</strong> (8.2 CGPA) with a BCA
+            I'm an <strong>MCA graduate from Dayananda Sagar College</strong> (8.3 CGPA) with a BCA
             background (9.1 CGPA), and hands-on experience building production-style software during
             my internship at <strong>Sfour eSolutions Pvt Ltd</strong>, where I worked as a Full Stack
             Developer Intern from August to October 2025.
